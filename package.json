@@ -2,7 +2,6 @@
   "name": "geolitecity",
   "version": "0.1.1",
   "description": "Maxmind GeoLiteCity.dat data.",
-  "main": "GeoLiteCity.dat",
   "scripts": {
     "test": "exit 0"
   },
@@ -14,6 +13,9 @@
     "maxmind",
     "city",
     "data"
+  ],
+  "files":[
+	  "GeoLiteCity.dat"
   ],
   "dependencies": {},
   "devDependencies": {
