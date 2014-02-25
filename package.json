@@ -2,9 +2,12 @@
   "name": "geolitecity",
   "version": "0.1.0",
   "description": "Maxmind GeoLiteCity.dat data.",
+  "main": "GeoLiteCity.dat",
   "scripts": {
     "test": "exit 0"
   },
+  "author": "angleman",
+  "license": "MIT & CC3",
   "keywords": [
     "geo",
     "ip",
