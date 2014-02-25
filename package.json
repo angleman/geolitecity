@@ -1,7 +1,7 @@
 {
   "name": "geolitecity",
   "version": "0.1.0",
-  "description": "Maxmind GeoLiteCity.dat data."
+  "description": "Maxmind GeoLiteCity.dat data.",
   "scripts": {
     "test": "exit 0"
   },
