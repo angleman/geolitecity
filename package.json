@@ -14,5 +14,10 @@
     "maxmind",
     "city",
     "data"
-  ]
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-bump": "0.0.13"
+  }
 }
