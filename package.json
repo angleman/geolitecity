@@ -1,0 +1,15 @@
+{
+  "name": "geolitecity",
+  "version": "0.1.0",
+  "description": "Maxmind GeoLiteCity.dat data."
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "geo",
+    "ip",
+    "maxmind",
+    "city",
+    "data"
+  ]
+}
